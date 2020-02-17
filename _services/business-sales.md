@@ -1,6 +1,6 @@
 ---
-title: 'Business Sales'
-image: '/services/default.png'
+title: "CI/CD Automation"
+image: "/services/default.png"
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
