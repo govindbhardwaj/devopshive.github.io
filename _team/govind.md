@@ -1,9 +1,9 @@
 ---
-title: 'Peter Van Eijk'
-image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
-email: 'peter@test.com'
-linkedinurl: 'https://www.linkedin.com/'
+title: "Govind Bhardwaj"
+image: "https://govindbhardwaj.github.io/assets/icons/icon.png"
+jobtitle: "Director"
+email: "govindbhardwaj@outlook.com"
+linkedinurl: "https://www.linkedin.com/in/govindbhardwaj/"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

@@ -1,17 +1,26 @@
-[
-  {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+[{
+    "title": "Web Development",
+    "description": "Make your business digital with cutting edge web technologies.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Mobile Development",
+    "description": "We develop beautiful mobile apps for the Android and iOS.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "CI/CD Automation",
+    "description": "We build automation pipelines for enterprises to ensure hassle free and safe deployments.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Security Testing",
+    "description": "Keep your digital business secure by following our security standards.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Training",
+    "description": "Need IT training for your company? We also provide that.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

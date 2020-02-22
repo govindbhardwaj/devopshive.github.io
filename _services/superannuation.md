@@ -1,5 +1,5 @@
 ---
-title: "Superannuation"
+title: "Training"
 image: "/services/default.png"
 ---
 
